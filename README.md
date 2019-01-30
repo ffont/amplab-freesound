@@ -28,3 +28,10 @@ First run the following command:
     docker-compose up
 
 Then access `http://localhost:8888` on your browser and when asked for a password use **mir**.
+
+Form the interface that you'll see in your browser you can open the three included Jupyter Notebooks and follow them in order:
+
+ 1) Create source sound collection
+ 2) Analyze source collection and target file
+ 3) Reconstruct target file with source collection frames
+ 
